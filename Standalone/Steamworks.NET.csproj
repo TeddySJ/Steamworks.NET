@@ -94,6 +94,7 @@
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteammusic.cs" Link="Steamworks.NET\autogen\isteammusic.cs" />
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteammusicremote.cs" Link="Steamworks.NET\autogen\isteammusicremote.cs" />
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteamnetworking.cs" Link="Steamworks.NET\autogen\isteamnetworking.cs" />
+    <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteamnetworkingmessages.cs" Link="Steamworks.NET\autogen\isteamnetworkingmessages.cs" />
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteamnetworkingsockets.cs" Link="Steamworks.NET\autogen\isteamnetworkingsockets.cs" />
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteamnetworkingutils.cs" Link="Steamworks.NET\autogen\isteamnetworkingutils.cs" />
     <Compile Include="..\com.rlabrecque.steamworks.net\Runtime\autogen\isteamparentalsettings.cs" Link="Steamworks.NET\autogen\isteamparentalsettings.cs" />
